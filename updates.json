@@ -1,0 +1,81 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 198882166,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 199954027,
+          "is_bot": false,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 199954027,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "type": "private"
+        },
+        "date": 1526467780,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 198882167,
+      "message": {
+        "message_id": 3,
+        "from": {
+          "id": 199954027,
+          "is_bot": false,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 199954027,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "type": "private"
+        },
+        "date": 1526470825,
+        "text": "привіт"
+      }
+    },
+    {
+      "update_id": 198882168,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 199954027,
+          "is_bot": false,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "language_code": "ru-RU"
+        },
+        "chat": {
+          "id": 199954027,
+          "first_name": "Bloody",
+          "last_name": "Pastor",
+          "username": "bloody_pastor",
+          "type": "private"
+        },
+        "date": 1526471669,
+        "text": "привет"
+      }
+    }
+  ]
+}
